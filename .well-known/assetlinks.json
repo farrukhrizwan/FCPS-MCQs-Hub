@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "org.eu.fr.barlas.mcqhub.twa",
+        "sha256_cert_fingerprints": ["E7:67:AF:95:CD:CC:D9:B5:0C:BF:AE:ED:10:32:AB:87:9C:89:18:15:CC:8D:2F:1F:CB:F9:F5:08:BD:86:14:79"]
+      }
+    }]
