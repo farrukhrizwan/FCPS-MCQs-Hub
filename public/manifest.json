@@ -1,0 +1,17 @@
+{
+  "short_name": "FCPS MCQs",
+  "name": "FCPS MCQs Hub",
+  "description": "Your Gateway to Exam Readiness - Official MCQs Assessment Portal for FCPS&C",
+  "icons": [
+    {
+      "src": "/fcps_logo.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "display": "standalone",
+  "orientation": "portrait"
+}
