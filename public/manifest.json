@@ -1,12 +1,24 @@
 {
-  "short_name": "FCPS MCQs",
+  "short_name": "MCQs Hub",
   "name": "FCPS MCQs Hub",
-  "description": "Your Gateway to Exam Readiness - Official MCQs Assessment Portal for FCPS&C",
+  "description": "Your Gateway to Exam Readiness - Official MCQs Assessment Portal for FCPS school systems and all students for preparation and practice of Middle  Matriculation SSC Board Exams and  ISSB  intelligence tests and general knowledge assessments Practice",
   "icons": [
     {
       "src": "/fcps_logo.svg",
       "type": "image/svg+xml",
       "sizes": "192x192 512x512"
+    },
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
     }
   ],
   "start_url": "/",
