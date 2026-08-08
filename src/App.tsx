@@ -492,7 +492,7 @@ export default function App() {
                         className="w-full pl-9 pr-3 py-2 text-xs bg-gray-50 border border-gray-300 rounded-lg focus:bg-white focus:outline-none focus:border-red-600 font-bold"
                       />
                     </div>
-                    <span className="text-[10px] text-gray-400 block pt-1">Default: admin123 or fcps2026</span>
+                    <span className="text-[10px] text-gray-400 block pt-1">Enter Password</span>
                   </div>
 
                   {adminLoginError && (
